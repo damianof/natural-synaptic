@@ -4,7 +4,7 @@
   "description": "Javascript Natural Language Classifier",
   "main": "lib/index.js",
   "scripts": {
-    "test": "mocha test/ --recursive"
+    "test": "mocha tests/ --recursive"
   },
   "author": "Nima Gardideh <nima@halfmoon.ws>",
   "repository": {
@@ -15,7 +15,7 @@
   "dependencies": {
     "fs": "0.0.2",
     "lodash": "^3.10.1",
-    "natural": "^0.2.1",
+    "natural": "0.4.0",
     "synaptic": "^1.0.2"
   },
   "devDependencies": {

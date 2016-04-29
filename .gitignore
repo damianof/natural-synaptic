@@ -1,7 +1,7 @@
 # Tests
 data.csv
 test.js
-test/classifier.json
+tests/classifier.json
 
 # Logs
 logs
